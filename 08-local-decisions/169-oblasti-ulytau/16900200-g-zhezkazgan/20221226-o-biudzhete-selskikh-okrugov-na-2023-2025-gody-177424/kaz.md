@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
+source: https://zan.gov.kz/client/#!/doc/177424/kaz/24.05.2023
 ---
 
 # 2023-2025 жылдарға арналған ауылдық округтер бюджеті туралы
@@ -81,6 +81,8 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
       қарыздарды өтеу –0 теңге;
 
       бюджет қаражатының пайдаланылатын қалдықтары – 0 теңге.
+
+> *Ескерту. 2-тармақ жаңа редакцияда – Ұлытау облысы Жезқазған қалалық мәслихатының 24.05.2023 № 3/26 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
 
 3. 2023-2025 жылдарға арналған Сарыкеңгір ауылдық округінің бюджеті 7, 8, 9 қосымшаларға сәйкес, оның ішінде 2023 жылға келесі көлемдерде бекітілсін:
 
@@ -2168,6 +2170,8 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 
 ## 2023 жылға арналған Талап ауылдық округінің бюджеті
 
+> *Ескерту. 4-қосымша жаңа редакцияда – Ұлытау облысы Жезқазған қалалық мәслихатының 24.05.2023 № 3/26 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -2347,7 +2351,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 <td colspan="2"></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>31662</td>
+<td>39948</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2355,7 +2359,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 <td colspan="2"></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>17116</td>
+<td>8830</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2526,48 +2530,48 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="5">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
 <td>5</td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
+<td colspan="2"></td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">01</td>
 <td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0</td>
@@ -2629,34 +2633,34 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="5">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Мемлекеттік қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0</td>
@@ -2665,34 +2669,34 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
-<td>2</td>
+<td colspan="2">2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
@@ -2700,7 +2704,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
@@ -2708,7 +2712,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>VI.Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
@@ -2718,71 +2722,71 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="6">Санаты</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Кіші сыныбы</td>
+<td colspan="4">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
-<td>3</td>
-<td>4</td>
+<td colspan="2">3</td>
+<td colspan="2">4</td>
 <td>5</td>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
-<td></td>
-<td>Қарыздар түсімдері</td>
+<td colspan="2"></td>
+<td colspan="2">Қарыздар түсімдері</td>
 <td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
-<td>3</td>
+<td colspan="2">3</td>
 <td>4</td>
 <td>5</td>
 <td>6</td>
@@ -2790,7 +2794,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 <tr>
 <td>16</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
 <td>0</td>
@@ -2798,7 +2802,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/kaz/18.01.2023
 <tr>
 <td></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
 <td>0</td>
