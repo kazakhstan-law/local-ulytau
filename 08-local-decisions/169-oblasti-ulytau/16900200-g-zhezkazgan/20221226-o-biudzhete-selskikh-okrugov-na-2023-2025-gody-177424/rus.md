@@ -1,5 +1,5 @@
 ---
-version_id: '177424_615801'
+version_id: '177424_635139'
 act_code: '177424'
 language: rus
 title: О бюджете сельских округов на 2023-2025 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '169002000002'
 approval_date: 2022-12-26
-version_date: 2023-01-18
+version_date: 2023-05-24
 registry_number: '177424'
 caused_by:
-  code: '178204'
+  code: '182171'
   title: О внесении изменений в решение Жезказганского городского маслихата от 26 декабря 2022 года № 34/250 «О бюджете сельских округов на 2023-2025 годы»
-  link: https://zan.gov.kz/client/#!/doc/178204/rus
-source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
+  link: https://zan.gov.kz/client/#!/doc/182171/rus
+source: https://zan.gov.kz/client/#!/doc/177424/rus/24.05.2023
 ---
 
 # О бюджете сельских округов на 2023-2025 годы
@@ -98,6 +98,8 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
       погашения займов – 0 тенге;
 
       используемые остатки бюджетных средств – 0 тенге.
+
+> *Сноска. Пункт 2 в редакции решения Жезказганского городского маслихата области Ұлытау от 24.05.2023 № 3/26 (вводится в действие с 01.01.2023).*
 
 3. Утвердить бюджет Сарыкенгирского сельского округа на 2023-2025 годы согласно приложениям 7, 8, 9 соответственно, в том числе на 2023 год в следующих объёмах:
 
@@ -2184,6 +2186,8 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 
 ## Бюджет Талапского сельского округа на 2023 год
 
+> *Сноска. Приложение 4 в редакции решения Жезказганского городского маслихата области Ұлытау от 24.05.2023 № 3/26 (вводится в действие с 01.01.2023).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -2191,7 +2195,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
@@ -2347,7 +2351,10 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td></td>
 <td></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>48778</td>
+<td>
+
+48778
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2363,7 +2370,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td></td>
 <td>001</td>
 <td colspan="4">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>31662</td>
+<td>39948</td>
 </tr>
 <tr>
 <td></td>
@@ -2371,7 +2378,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td></td>
 <td>022</td>
 <td colspan="4">Капитальные расходы государственного органа</td>
-<td>17116</td>
+<td>8830</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2489,37 +2496,37 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="8">Функциональная группа</td>
 <td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
+<td colspan="6">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="5">Программа</td>
+</tr>
+<tr>
 <td></td>
-<td>Наименование</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Наименование</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
-<td>5</td>
+<td colspan="4">5</td>
 <td>6</td>
 </tr>
 <tr>
@@ -2527,7 +2534,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td></td>
 <td></td>
 <td></td>
-<td>IIІ.Чистое бюджетное кредитование</td>
+<td colspan="4">IIІ.Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2535,7 +2542,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td></td>
 <td></td>
 <td></td>
-<td>Бюджетные кредиты</td>
+<td colspan="4">Бюджетные кредиты</td>
 <td>0</td>
 </tr>
 </table>
@@ -2565,7 +2572,7 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td>2</td>
 <td>3</td>
 <td>4</td>
-<td>5</td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -2734,17 +2741,17 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="7">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="6">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="5">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -2756,14 +2763,14 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td>4</td>
+<td colspan="4">4</td>
 <td>5</td>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
 <td></td>
-<td>Поступление займов</td>
+<td colspan="4">Поступление займов</td>
 <td>0</td>
 </tr>
 </table>
@@ -2823,17 +2830,17 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="7">Категория</td>
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="6">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="5">Подкласс</td>
 </tr>
 <tr>
 <td></td>
@@ -2845,14 +2852,14 @@ source: https://zan.gov.kz/client/#!/doc/177424/rus/18.01.2023
 <td>1</td>
 <td>2</td>
 <td>3</td>
-<td>4</td>
+<td colspan="4">4</td>
 <td>5</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
-<td>Используемые остатки бюджетных средств</td>
+<td colspan="4">Используемые остатки бюджетных средств</td>
 <td>0</td>
 </tr>
 </table>
