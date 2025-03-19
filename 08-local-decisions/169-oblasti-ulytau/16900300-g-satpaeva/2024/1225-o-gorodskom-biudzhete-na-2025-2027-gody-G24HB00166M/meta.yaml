@@ -24,17 +24,24 @@ versions:
   cause:
     code: '207229'
     key: G25HB00181M
+- date: 2025-03-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '208377'
+    key: G25HB00188M
 version_date:
-  kaz: 2025-02-18
-  rus: 2025-02-18
+  kaz: 2025-03-19
+  rus: 2025-03-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/205389/kaz/18.02.2025
-  rus: https://zan.gov.kz/client/#!/doc/205389/rus/18.02.2025
+  kaz: https://zan.gov.kz/client/#!/doc/205389/kaz/19.03.2025
+  rus: https://zan.gov.kz/client/#!/doc/205389/rus/19.03.2025
 caused_by:
-  code: '207229'
-  key: G25HB00181M
-  requisite: Решение Сатпаевского городского маслихата области Ұлытау от 18 февраля 2025 года № 181
+  code: '208377'
+  key: G25HB00188M
+  requisite: Решение Сатпаевского городского маслихата области Ұлытау от 19 марта 2025 года № 188
   title:
     rus: О внесении изменений в решение Сатпаевского городского маслихата от 25 декабря 2024 года № 166 «О городском бюджете на 2025 – 2027 годы»
     kaz: Сәтбаев қалалық мәслихатының 2024 жылғы 25 желтоқсандағы № 166 «2025 – 2027 жылдарға арналған қалалық бюджет туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/207229/rus
+  link: https://zan.gov.kz/client/#!/doc/208377/rus
