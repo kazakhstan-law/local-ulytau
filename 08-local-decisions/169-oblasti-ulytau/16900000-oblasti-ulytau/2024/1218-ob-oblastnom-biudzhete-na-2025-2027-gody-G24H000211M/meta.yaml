@@ -38,17 +38,24 @@ versions:
   cause:
     code: '214913'
     key: G25H000267M
+- date: 2025-11-26
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '217927'
+    key: G25H000276M
 version_date:
-  kaz: 2025-09-19
-  rus: 2025-09-19
+  kaz: 2025-11-26
+  rus: 2025-11-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/204644/kaz/19.09.2025
-  rus: https://zan.gov.kz/client/#!/doc/204644/rus/19.09.2025
+  kaz: https://zan.gov.kz/client/#!/doc/204644/kaz/26.11.2025
+  rus: https://zan.gov.kz/client/#!/doc/204644/rus/26.11.2025
 caused_by:
-  code: '214913'
-  key: G25H000267M
-  requisite: Решение маслихата области Ұлытау от 19 сентября 2025 года № 267
+  code: '217927'
+  key: G25H000276M
+  requisite: Решение маслихата области Ұлытау от 26 ноября 2025 года № 276
   title:
     rus: О внесении изменений в решение XXIII сессии маслихата области Ұлытау от 18 декабря 2024 года № 211 «Об областном бюджете на 2025-2027 годы»
     kaz: Ұлытау облыстық мәслихатының XXIII сессиясының 2024 жылғы 18 желтоқсандағы № 211 «2025-2027 жылдарға арналған облыстық бюджет туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/214913/rus
+  link: https://zan.gov.kz/client/#!/doc/217927/rus
