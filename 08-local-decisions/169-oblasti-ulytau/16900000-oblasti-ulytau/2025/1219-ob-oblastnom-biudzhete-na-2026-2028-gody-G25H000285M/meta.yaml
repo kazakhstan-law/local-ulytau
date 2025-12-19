@@ -1,0 +1,25 @@
+key: G25H000285M
+akn: /akn/kz/act/2025-12-19/G25H000285M
+act_code: '219727'
+requisite: Решение маслихата области Ұлытау от 19 декабря 2025 года № 285
+title:
+  rus: Об областном бюджете на 2026-2028 годы
+  kaz: 2026-2028 жылдарға арналған облыстық бюджет туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2025-12-19
+in_force_from: 2026-01-01
+approved_by:
+- '169000000002'
+versions:
+- date: 2025-12-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-12-19
+  rus: 2025-12-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/219727/kaz/19.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/219727/rus/19.12.2025
