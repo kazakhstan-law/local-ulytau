@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2026-02-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '222436'
+    key: G26HC00355M
 version_date:
-  kaz: 2025-12-25
-  rus: 2025-12-25
+  kaz: 2026-02-19
+  rus: 2026-02-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/220603/kaz/25.12.2025
-  rus: https://zan.gov.kz/client/#!/doc/220603/rus/25.12.2025
+  kaz: https://zan.gov.kz/client/#!/doc/220603/kaz/19.02.2026
+  rus: https://zan.gov.kz/client/#!/doc/220603/rus/19.02.2026
+caused_by:
+  code: '222436'
+  key: G26HC00355M
+  requisite: Решение Каражалского городского маслихата области Ұлытау от 19 февраля 2026 года № 355
+  title:
+    rus: О внесении изменений в решение Каражалского городского маслихата от 25 декабря 2025 года № 332 «О городском бюджете на 2026-2028 годы»
+    kaz: Қаражал қалалық мәслихатының 2025 жылғы 25 желтоқсандағы № 332 «2026–2028 жылдарға арналған қалалық бюджет туралы» шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/222436/rus
