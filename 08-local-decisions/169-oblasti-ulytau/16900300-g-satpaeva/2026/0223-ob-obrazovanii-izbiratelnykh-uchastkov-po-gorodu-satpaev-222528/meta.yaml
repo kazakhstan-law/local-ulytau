@@ -1,0 +1,17 @@
+act_code: '222528'
+requisite: Решение акима города Сатпаев области Ұлытау от 23 февраля 2026 года № 1
+title:
+  rus: Об образовании избирательных участков по городу Сатпаев
+  kaz: Сәтбаев қаласы бойынша сайлау учаскелерін құру туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2026-02-23
+approved_by:
+- '169003000003'
+version_date:
+  kaz: 2026-02-23
+  rus: 2026-02-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/222528/kaz/23.02.2026
+  rus: https://zan.gov.kz/client/#!/doc/222528/rus/23.02.2026
