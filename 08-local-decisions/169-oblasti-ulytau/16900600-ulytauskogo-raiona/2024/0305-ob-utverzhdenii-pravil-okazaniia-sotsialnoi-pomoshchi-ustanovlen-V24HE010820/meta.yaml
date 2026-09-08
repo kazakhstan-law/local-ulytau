@@ -52,12 +52,20 @@ versions:
   cause:
     code: '229393'
     key: G26HE00297M
+- date: 2026-09-08
+  portal_date: 2026-08-26
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '229393'
+    key: G26HE00297M
 version_date:
-  kaz: 2026-06-26
-  rus: 2026-06-26
+  kaz: 2026-08-26
+  rus: 2026-08-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/194233/kaz/26.06.2026
-  rus: https://zan.gov.kz/client/#!/doc/194233/rus/26.06.2026
+  kaz: https://zan.gov.kz/client/#!/doc/194233/kaz/26.08.2026
+  rus: https://zan.gov.kz/client/#!/doc/194233/rus/26.08.2026
 caused_by:
   code: '229393'
   key: G26HE00297M
